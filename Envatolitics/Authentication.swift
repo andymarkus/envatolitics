@@ -33,8 +33,8 @@ class Authentication {
     }
     
     struct constants {
-        static let consumerKey = "myvatosales-ppgnww2q"
-        static let consumerSecret = "avzz2v0hGVjnFGaouy1OlKRksx841NVi"
+        static let consumerKey = ""
+        static let consumerSecret = ""
         static let authorizeUrl = "https://api.envato.com/authorization"
         static let accessTokenUrl = "https://api.envato.com/token"
         static let storageToken = "storageToken"
