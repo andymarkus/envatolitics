@@ -1,0 +1,3 @@
+[submodule "aerogear-ios-oauth2"]
+	path = aerogear-ios-oauth2
+	url = https://github.com/aerogear/aerogear-ios-oauth2.git
